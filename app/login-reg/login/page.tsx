@@ -65,7 +65,7 @@ export default function PasswordInput() {
          </div>
          
          <div className= "flex items-center mt-3 ">
-         <h2 className="text-sm text-gray-700">Don't have an account?</h2>
+         <h2 className="text-sm text-gray-700">Don&apos;t have an account?</h2>
           <h2 className="text-sm text-blue-500 pl-1">
           <Link href="/reg">Register</Link>
           </h2>
